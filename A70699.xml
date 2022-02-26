@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Behold you rulers, and hearken proud men and women who have let in the spirit of the world into your hearts, whereby you are lifted up in the earth, hear what truth saith</title>
+            <author>Naylor, James, 1617?-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A70699</idno>
+            <idno type="STC">Wing N265</idno>
+            <idno type="STC">ESTC R891</idno>
+            <idno type="EEBO-CITATION">12264924</idno>
+            <idno type="OCLC">ocm 12264924</idno>
+            <idno type="VID">57988</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A70699)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57988)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 846:16, 872:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Behold you rulers, and hearken proud men and women who have let in the spirit of the world into your hearts, whereby you are lifted up in the earth, hear what truth saith</title>
+                  <author>Naylor, James, 1617?-1660.</author>
+               </titleStmt>
+               <extent>[1], 8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Thomas Simmons ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Signed: J.N.</note>
+                  <note>Attributed to James Naylor.  Cf. BM.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>"These was [sic] written in Oliver Cromwels time, to him, his rulers and teachers, and published, and the former of them then printed, and now reprinted": p. 8.</note>
+                  <note>Reproduction of original in Duke University Library and Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Christian life --  Early works to 1800.</term>
+               <term>Church and state --  England --  Early works to 1800.</term>
+               <term>Worship --  Early works to 1800.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:57988:1"/>
+            <!-- PDF PAGE 70 -->
+            <pb n="1" facs="tcp:57988:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 70 -->
+            <head>Behold you RULERS, And hearken proud MEN And WOMEN, Who have let in the ſpirit of the world into your hearts, whereby you are lifted up in the earth, hear what Truth ſaith.</head>
+            <p>YOu have gained Riches, and you ſeek worldly Glory, an evill covetouſneſſe to your ſelves; and theſe Idols being ſet up in your hearts to be wor<g ref="char:EOLhyphen"/>ſhipped, you rage and wonder why the children of light will not worſhip your Gods you have ſet up, and fall down before the glory of the World in you, ſo you are angry; but why are you ſo blind to think that ſuch who have denied to bow to the ſame ſpirit and pride in
+<pb facs="tcp:57988:2"/>
+               <!-- PDF PAGE 71 -->
+               <pb n="1" facs="tcp:57988:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 71 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="2" facs="tcp:57988:3"/>
+               <!-- PDF PAGE 72 -->themſelves, and have (through the Croſſe) obtained power from above to caſt out the ſame dols out of their own hearts, and can they bow to them in another; nay, the day is come, and the children of light have found the living God to worſhip, and there is none beſides him to us, and now in vain is the Idol preached; we cannot worſhip with you, however you be tormented, it is of God to famiſh the worlds Idols; and he alone will be worſhip<g ref="char:EOLhyphen"/>ped who is mighty to ſave, what have we to do any more with Idolatry, pride cannot ſave us, nor can the worlds glory preſerve in the hour of temptation, though we ſhould how thereto; we cannot truſt in uncertain riches, nor may we take counſell at ſilver or gold, flocks or heards, we have proved your Idols, and know what is in them, and we have found them deſtroyers and not Saviours; whatever your glory promiſes you (who moſt ſeek it) we know in its right hand is a lye, flattery, and falſhood, and all who loves it comes ſhort of the glory of God, humility is our glory, and he is our Saviour, who ſaith, learn of me for I am lowly, and ye ſhall find reſt for your ſoules, and this we have pro<g ref="char:EOLhyphen"/>ved, and we find his words truth, and all loftineſſe a lye; ſo having found the truth, the truth hath made us free, free from pride, free from vain-glory, free from that ſpirit that puts it on, and would have it worſhipped, free from the man<g ref="char:EOLhyphen"/>ner of the Gentiles, who exerciſe Lordſhip in that nature which is out of the light and doctrine of Chriſt.</p>
+            <p>So the truth having made us free, in that liberty we ſtand faſt, and may not be intangled again with your yoke of bon<g ref="char:EOLhyphen"/>dage, nor the manners of the Gentiles; and then you ſay its our pride and ſtubbornneſſe, and many ſuch accuſations you caſt on us; alas what darkneſſe is this, and how have you loſt your judgement, what is Mordecai become prouder than Haman with you? is he proud who denies to worſhip pride, and he that would be worſhipped free? is not this to put light for darkneſſe, and darkneſſe for light, to condemn the innocent to hide the offender? come down to that of God in your conſciences, and let that judge, and let pride
+<pb n="3" facs="tcp:57988:3"/>
+               <!-- PDF PAGE 72 -->be ſeen and aſhamed where it is; and then you plead Scrip<g ref="char:EOLhyphen"/>ture and ſay, Let every ſoule be ſubject to the higher pow<g ref="char:EOLhyphen"/>er, and be ſubject to every ordinance of man for the Lords ſake, &amp;c. Now this we ſay alſo and own the Scriptures, but mans pride is not the higher power; in humility we find a power above pride, higher than oppreſſion, higher than mens wills, higher than the luſts of the eye, yea higher than all that in man would exalt againſt it; ſo we deny the lower, that we may ſubject our ſelves to that which excel<g ref="char:EOLhyphen"/>leth, which is ordained of God, and to every ordinance of man are we ſubject for the Lords ſake; but ſhould we bow to the ſpirit of pride, we ſhould betray the Lord, and give his honour to another, and that is not for the Lords ſake, and what is againſt him for his ſake we denie, and with him ſuffer under it, as witneſſes for him againſt it, ſo we give Caeſar his due, and honour to whom it belongs, but all glory and worſhip to God alone, to whom it is due.</p>
+            <p>But you ſay, that worſhip we plead for is Civil, not Reli<g ref="char:EOLhyphen"/>gious, but where do you read in Scripture of civil worſhip? we find, honour all men in the Lord, and that which is in the Lord, is Religious; and that which is not in the Lord is Idolatrous, is there any thing honourable in man but the Image of God which is ſpirituall, he that worſhips where that is not, worſhips the beaſt, or that which is worſe, the Devil, and if any bow to that of God in man, how comes it not to be religious? and yet you ſay for conſcience ſake, and not religious, ſo your diſtinctions will not gain wor<g ref="char:EOLhyphen"/>ſhip from them who knows God and his Image, and the beaſt and his image in their ſeverall appearances, and by this are they known for ever, he that's from above ſeeks not honour from man, but that honour which is of God alone; Gods preſence in him makes him honourable in the hearts of all that loves God, ſo God gives him grace, and glory, and honour, but the other muſt have none from God, who abides not in that which is honourable, and ſo becomes as the beaſt ſeeking honour by force from ſuch as he hath power over, and rages if he
+<pb n="4" facs="tcp:57988:4"/>
+               <!-- PDF PAGE 73 -->cannot have it, and this nature hath no right to it, though the falſe Prophet joyn with him to plead for it, who muſt into the lake together; and all that worſhip the beaſt and his Image, muſt drink of the wine of the wrath of God, powred out without mixture, as ſaith the Scripture.</p>
+            <p>So you that are in place to rule, and ſeek for ho<g ref="char:EOLhyphen"/>nour, ſeek firſt that which is honourable, and none can hold you from honour, and know it is the gift of God onely to ſuch as honour him, and not them<g ref="char:EOLhyphen"/>ſelves; ſeek that glory and honour that hath immor<g ref="char:EOLhyphen"/>tality and eternall life, which is obtained of God by continuance in well doing; ſeek humility that goes before honour, exalt juſtice, ſet up righteouſneſſe and truth in judgement, hold forth Gods ſword to all people under you, and not your own wills, with<g ref="char:EOLhyphen"/>out reſpect of perſons, then you honour God, and he will honour you, ſeek firſt the Kingdome of God, that he may rule in your own hearts, over your pride, over your paſſion, over luſt, over covetouſneſſe, over reſpect of perſons, and over all unrighteouſneſſe, ſo ſhall you ſet up the higher power in you, for every ſoule to be ſubject to, which that of God in every conſcience ſhall anſwer to, then are you Miniſters of God, and he ſhall adde to you that honour which is of God, which is ſpirituall, which is immortall, binding every conſcience and ſoule in ſubjection to your autho<g ref="char:EOLhyphen"/>rity which all that reſiſt receive damnation to themſelves, and this is religious and an ordinance of God, and re<g ref="char:EOLhyphen"/>ceives not its honour from man, but from God alone, who hath ever honoured holy men and women that ruled for God with God, as you may read in the Scriptures, who never needed to ſeek it from men while they retained God; but <hi>Saul</hi> when God wa<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> departed from him, through covetouſneſſe and diſobedience, cryed, Hoour me before the people, who had loſt the kingdom of God, had loſt his honour, had loſt that which binds the conſcience, and to which the ſoule is to be
+<pb n="5" facs="tcp:57988:4"/>
+               <!-- PDF PAGE 73 -->ſubject, who cryed, Honor me before the People, from whom God was departed, who had departed from God, who ſought honor to himſelf without God, the Kingdom of God being rent from him, his honor departed: So you that would have Honor, ſeek God, and retain him, ex<g ref="char:EOLhyphen"/>alt his Kingdom in your hearts, and he will add honor thereto; but if you be diſobedient, and your own ſouls be not ſubject to the higher Power, then another power rules, to which the righteous ſoul cannot ſubject for con<g ref="char:EOLhyphen"/>ſcience ſake; then gets up he that's out of Gods Kingdom, and cries honor me before the people.</p>
+            <p>And this is he that ſought <hi>Davids</hi> life, and ſeeks the life of his ſeed, who is diſobedient, who is covetous, who is greedy of Honor, who is a murderer, who keeps not the Word of God, nor abode in the Truth, to keep down Pride and vain glory; then the falſe Prophet cries worſhip this; ſo ſuch as be out of the Faith of Chriſt, diſobedient to the Law of God, and in reſpect of Perſons; ſuch as be Flatterers, Lyars, Scorners, Fighters, Suers, Drunkards, Swearers, and ſuch as be out of the Kingdom of God, whoſe ſouls are not ſubject to the higher power for conſci<g ref="char:EOLhyphen"/>ence ſake, ſuch bow and worſhip with putting off Hats, and bowing of the knee to the perſon, but the ſoul of ſuch is not ſubject to the Power that is of God for conſcience ſake; yet ſuch is the darkneſs of many Rulers, as to account this ſubjection to Authority, while ſuch whoſe ſouls do truly bow to the Power of Righteouſneſs, Juſtice, and equity, where ever it is, without flattering where it is not, are condemned for unmannerlineſs, diſorder, and ſuffer as diſ<g ref="char:EOLhyphen"/>obedient to Authority; but to that of God in every Con<g ref="char:EOLhyphen"/>ſcience do we appear, whether ſuch ſouls exalt the Power which is of God, and ſeek his honor, or their own, and ſo as you honor God, with God ſhall you be honored; but ſeek it as eagerly as you will without him it will flee from you, though flattery you may obtain, which will corrupt your judgment, and let in upon you everlaſting diſhonor. Wherefore turn to the Lord with your whole hearts, and
+<pb n="6" facs="tcp:57988:5"/>
+               <!-- PDF PAGE 74 -->ſeek his Glory alone, that he may put upon you his Spirit of humility, and righteous Judgment, that you may be co<g ref="char:EOLhyphen"/>vered therewith, as with a Garment, ſo ſhall you freely have our ſouls ſubjection, which now in ſecret mourns for you with Prayers and tears before God, and openly ſuffers under you for a teſt<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mony againſt you, and now you that are not in place to rule and ſeeks to be worſhipped of us, what is it you would have us bow to, in you, or upon you? Gladly would we ſee humility appear in you, and behold you covered with the Spirit of God, that in our ſouls we might ſubject thereto, and ſo in the Lord honor you; but ſhould we bow to your Gold and Silver Lace, your coſtly Apparel, or Earthly Riches? To that of God in you all we appear, if we ſhould not worſhip Idols, and break the Law of God, for which doing how ſhould we be excuſed before God at the day of account, let ſuch as fear God more than man, judg.</p>
+            <closer>
+               <signed>J. N.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <p>O You Rulers and Teachers of theſe Nations, to which Chriſt Jeſus hath ſhewed ſo much ſavor as to honor theſe Nations with his firſt appearance now after ſo long a night; and that from hence the Sun-riſe of Righteouſneſs ſhould ſhine forth in clearneſs to the world over the head of all Idolatry, falſe Worſhips, corrupt Laws, violence and oppreſſion, and all the numberleſs number of vain cuſtoms, pride and exceſs, in which the whole world lies in wicked<g ref="char:EOLhyphen"/>neſs, and with which the Holy pure One is burdened, and hath been grieved theſe many yeers, againſt which he is now ariſen in many of his Servants openly to declare, not only here, but in moſt parts of the World, and ſhould you be the men now to ſet your ſelves againſt this work by evil intreating ſuch as are called thereto, and are found there<g ref="char:EOLhyphen"/>in, nor doth your Teachers go about it themſelves; what will you anſwer the Lord to theſe things? is there no need
+<pb n="7" facs="tcp:57988:5"/>
+               <!-- PDF PAGE 74 -->of this work at home or abroad? Is your ſtreets and mar<g ref="char:EOLhyphen"/>kets cleer, and your worſhips pure? Where can the pure eye of God look out, and not behold iniquity and provoca<g ref="char:EOLhyphen"/>tion? do you look for his coming, and evil intreat his ſervants whom he ſends to prepare his way before him? Would you have him to find you as <hi>Sodom</hi> at his coming? If you ſee theſe evils abound in the World, why do you ſet your ſelves againſt ſuch as call to Repentance where theſe things moſt abound? Is your Streets and Temples prepa<g ref="char:EOLhyphen"/>red for the pure God to walk and be worſhiped in with de<g ref="char:EOLhyphen"/>light, when a mortal man who hath but modeſty in his face cannot behold but be grieved with the exceſs of vani<g ref="char:EOLhyphen"/>ty and deceit ſhining openly therein? is the way prepared in your ſtreets &amp; Temples for the Lamb, when a Lyon can<g ref="char:EOLhyphen"/>not paſs for Briars &amp; Thorns, and other fruitleſs Trees tea<g ref="char:EOLhyphen"/>ring, and haling, and bruiſing? Did you love him in truth you would alſo hate that which would grieve his holy ſpi<g ref="char:EOLhyphen"/>rit at his coming in your ſelves, and in others, and you would hinder none that come in his Name who ſeek to make an end of ſin, ſeeing nothing elſe hinders his appearance, nor hath cauſed his departure from the children of men; and you that call your ſelves Miniſters of Chriſt, had not the ſpirit of ſlumber poſſeſſed you this would be your work; did the holy Spirit dwell in your Houſes, and look out at your windows, you could not be ſilent till you had driven Iniquity into a corner, and made Pride to bluſh, and Ly<g ref="char:EOLhyphen"/>ing, ſwearing, and all curſed ſpeaking afraid to utter its voyce in the ſtreets, that the pure eye might bleſs you, and the holy one delight to walk in the open ſtreets of your greateſt Meetings; ſhould not this be the work of the Mini<g ref="char:EOLhyphen"/>ſters of Righteouſneſs, and Meſſengers of Chriſt Jeſus, ra<g ref="char:EOLhyphen"/>ther than to petition the Rulers of the World againſt ſuch as are found in this work, to the utmoſt of your power, hindering it both at home and abroad, neither going a<g ref="char:EOLhyphen"/>bout it your ſelves, nor ſuffering them that would; were you ſeen to be diligent in this work you ſhould appear to be ſuch Servants as truly wait for your Lords coming in
+<pb n="8" facs="tcp:57988:6" rendition="simple:additions"/>
+               <!-- PDF PAGE 75 -->Peace, and not in Wrath, and that you had received the earneſt of the Spirit which travels for the delivering of the Creation from the bondage of Corruption, and the glori<g ref="char:EOLhyphen"/>ous Liberty of the Sons of God, and the Joy and Peace of the King of Righteouſneſs at his coming over the whole World.</p>
+            <closer>
+               <signed>J. N.</signed>
+            </closer>
+            <argument>
+               <p>Theſe was Written in <hi>Oliver Cromwels</hi> Time, to him, his Rulers and Teachers, and publiſhed, and the former of them then printed, and now reprinted.</p>
+            </argument>
+         </div>
+         <trailer>THE END.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Thomas Simmons,</hi> at the Sign of the <hi>Bull</hi> and <hi>Mouth</hi> near <hi>Alderſgate,</hi> 1660.</p>
+            <pb facs="tcp:57988:6"/>
+            <!-- PDF PAGE 75 -->
+         </div>
+      </back>
+   </text>
+</TEI>
